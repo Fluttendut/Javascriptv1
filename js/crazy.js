@@ -9,6 +9,9 @@ console.log(5+"hej")
 
 console.log("hej" - 5)
 
+console.log("xxxxxxxxx")
+console.log("jeg er i" + 4 > 5)
+
 out(("jeg er i out")>5)
 out("j">5)
 
@@ -27,7 +30,7 @@ if (g) out("jeg er null")
 
 let arr = [5, 5.5, "hej", 5>4, f, g, [1,"array2"], {"erik" : 5}, 0/0]
 
-arr.forEach(out)
-arr.forEach(s => console.log(s))
+//arr.forEach(out)
+//arr.forEach(s => console.log(s))
 
 
